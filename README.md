@@ -20,29 +20,31 @@ This project involves training a machine learning model for [classifiying crack 
 
 ### Model File
 - [Download Model](https://drive.google.com/file/d/1CWJiU8hQP_0fANDDAxxSnHKWrirfpDeH/view?usp=sharing)
-
 ### Model Architecture
 ![Model Architecture](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/model_architecture.png?raw_true)
 
 ## Training Metrics
 
 ### Loss and Accuracy Graph
+#### Overall Loss and Accuracy
 ![Loss and Accuracy Graph](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/loss_accuracy.png?raw_true)
+#### Tensorboard Accuracy Graph
 ![Tensorboard Accuracy Graph](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/tensoboard_epoch_accuracy.png?raw_true)
+#### Tensorboard Loss Graph
 ![Tensorboard Loss Graph](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/tensoboard_epoch_loss.png?raw_true)
 
 ## Prediction Example
 
 ### Example 1
-- Input Image
+#### Input Image
   ![Input Image 1](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/sample_input_1.png?raw_true)
-- Prediction
+#### Prediction
   ![Prediction 1](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/sample_prediction_1.png?raw_true)
 
 ### Example 2
-- Prediction 2
+#### Prediction 2
   ![Prediction 2](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/sample_prediction_2.png?raw_true)
-- Prediction 3
+#### Prediction 3
   ![Prediction 2](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/sample_prediction_3.png?raw_true)
 
 ## Data Source
