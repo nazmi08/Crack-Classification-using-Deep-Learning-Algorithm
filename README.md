@@ -19,7 +19,7 @@ This project involves training a machine learning model for [classifiying crack 
 ## Model
 
 ### Model File
-- [Download Model](https://drive.google.com/file/d/1CWJiU8hQP_0fANDDAxxSnHKWrirfpDeH/view?usp=sharing)
+- [Download Model](https://drive.google.com/drive/folders/1MDvyNY6sY8VPpakou5BlIFcwXGJtB_Ao?usp=sharing)
 ### Model Architecture
 ![Model Architecture](https://github.com/nazmi08/Crack-Classification-using-Deep-Learning-Algorithm/blob/main/model_architecture.png?raw_true)
 
